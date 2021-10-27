@@ -1,5 +1,6 @@
 # (c) @xditya
 # This file is a part of https://github.com/xditya/BotStatus
+#OKDAMONU
 
 import pytz
 import logging
